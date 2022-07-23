@@ -803,6 +803,10 @@ video {
   background-color: hsl(233 12% 13% / var(--tw-bg-opacity));
 }
 
+.bg-anchorEco {
+  background-color: hsla(165, 68%, 9%, 1);
+}
+
 .p-6 {
   padding: 1.5rem;
 }
